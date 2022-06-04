@@ -45,7 +45,7 @@ My main advantages are perseverance, a predisposition to constant learning and a
 
 ## Code samples:
 
-https://www.codewars.com/users/scalette
+[Codewars profile](https://www.codewars.com/users/scalette)
 
 ```
 function moveZeros(arr) {
