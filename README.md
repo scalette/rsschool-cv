@@ -1,1 +1,1 @@
-# rsschool-cv
+https://scalette.github.io/rsschool-cv/cv
