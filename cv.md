@@ -4,6 +4,7 @@
 
 +48451604361 (Poland, whatsapp)
 +79778801085 (Telegram Messenger)
+Max_SC#3601 (Discord)
 
 ---
 
@@ -45,6 +46,12 @@ My main advantages are perseverance, a predisposition to constant learning and a
 ## Code samples:
 
 https://www.codewars.com/users/scalette
+
+```
+function moveZeros(arr) {
+  return arr.sort((left, right) => right === 0 ? -1 : 0)
+}
+```
 
 ## Expirience:
 
