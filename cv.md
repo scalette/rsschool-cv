@@ -15,21 +15,31 @@ My main advantages are perseverance, a predisposition to constant learning and a
 ## Skills:
 
 ✔️ TypeScript/JavaScript (ES6+)
+
 ✔️ Python (3+)
+
 ✔️ C++ (C++17)
 
 ✔️ React
+
 ✔️ Node.js
+
 ✔️ Express
 
 ✔️ PostgreSQL
+
 ✔️ MongoDB
 
 ✔️ HTML5
+
 ✔️ CSS3/SCSS
+
 ✔️ Git
+
 ✔️ Unit-testing
+
 ✔️ Experience with management systems like Jira/Trello;
+
 ✔️ Understanding of software development methodologies: Agile
 
 ## Code samples:
@@ -41,11 +51,11 @@ https://www.codewars.com/users/scalette
 3-6 month programming expirience
 
 - nodejs/express course by Jonas Schmedtmann. 90days
-  [nameless-savannah-40694.herokuapp.com](Final project)
+  [Final project](nameless-savannah-40694.herokuapp.com)
 - react course 90days
-  [https://github.com/scalette/crwn-clothing-v2](Project "in process")
+  [Project "in process"](https://github.com/scalette/crwn-clothing-v2)
 - course project for Agile methodologies (postgreSQL + node.js + express + testing) in UoL univercity
-  [https://github.com/scalette/uol-agile-degree-planner](Final project)
+  [Final project](https://github.com/scalette/uol-agile-degree-planner)
 
 ## Work experience:
 
