@@ -1,5 +1,5 @@
 [# rsschool-cv](https://GITHUB-USERNAME.github.io/rsschool-cv/cv
 https://GITHUB-USERNAME.github.io/rsschool-cv/)
 
-[MD CV]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/scalette/rsschool-cv/blob/gh-pages/cv.md))
-[HTML CV]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/scalette/rsschool-cv/blob/gh-pages/index.html))
+[MD CV](https://github.com/scalette/rsschool-cv/blob/gh-pages/cv.md)
+[HTML CV](https://github.com/scalette/rsschool-cv/blob/gh-pages/index.html)
